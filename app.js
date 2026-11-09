@@ -57,3 +57,4 @@ console.log(
   `navigator.language=${navigator.language} location.href=${location.href}`,
 );
 // live Server: navigator.language=ko-KR location.href=http://127.0.0.1:5500/
+// 깃허브 사이트: navigator.language=ko-KR location.href=https://faraaaway.github.io/web261109/
